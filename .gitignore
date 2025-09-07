@@ -1,0 +1,7 @@
+# Ignore build output
+/build/
+*.exe
+*.obj
+*.pdb
+*.dll
+*.log
